@@ -1,1 +1,2 @@
 # Process-Scheduling-Algorithm
+The Process Scheduling Metrics Calculator is a Java-based tool designed to compute critical performance metrics—specifically, average wait time (WT) and average turnaround time (TAT)—for various process scheduling algorithms. Developed using Object-Oriented Programming (OOP) principles and data structures, this tool serves as an educational and analytical resource for understanding the efficiency of different scheduling techniques in operating systems.
